@@ -24,3 +24,7 @@ credentials.*
 
 # Logs
 *.log
+
+# Capture artifacts (binary, too large for git)
+*.zip
+btmeter-hci-analysis.json
